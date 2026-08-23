@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="builtbyander.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=playstation&logoColor=white" height="27"/>
   </a>
 
