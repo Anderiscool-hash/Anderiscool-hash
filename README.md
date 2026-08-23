@@ -56,3 +56,23 @@ class Developer:
 
 me = Developer()
 me.say_hi()
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=Anderiscool-hash&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+###
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderiscool-hash&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000"
+    alt="Most Used Languages"
+  />
+
+</div>
