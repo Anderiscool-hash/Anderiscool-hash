@@ -6,7 +6,7 @@
   />
 </div>
 
-<h1 align="center">hey there, i'm ander 👋🏽</h1>
+<h1 align="center">hey there, i'm Ander 👋🏽</h1>
 
 <p align="center">
   Developer • Automation • Self-Hosting • AI • Building Cool Stuff
