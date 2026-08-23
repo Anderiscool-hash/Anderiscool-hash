@@ -1,7 +1,7 @@
 <div align="center">
-  <img 
-    height="170" 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2anB6YTBidWhzMmdjMHhoNWp0Z3Uxemtscmw3YmNzZGVsNG9tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20OAhNvVQM98c/giphy.gif" 
+  <img
+    height="170"
+    src="https://media.giphy.com/media/20OAhNvVQM98c/giphy.gif"
     alt="PlayStation GIF"
   />
 </div>
@@ -14,17 +14,17 @@
 
 <div align="center">
 
-  <a href="https://github.com/Anderiscool-hash">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/>
-  </a>
+<a href="https://github.com/Anderiscool-hash" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27" />
+</a>
 
-  <a href="builtbyander.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=playstation&logoColor=white" height="27"/>
-  </a>
+<a href="https://builtbyander.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-003791?style=for-the-badge&logo=playstation&logoColor=white" height="27" />
+</a>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="27"/>
-  </a>
+<a href="https://www.linkedin.com/in/ander-ayala-509524331/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="27" />
+</a>
 
 </div>
 
@@ -32,20 +32,18 @@
 
 ## 💫 About Me
 
-I'm a developer who enjoys turning ideas into real projects and learning how the systems behind them actually work.
+I'm a developer who enjoys turning ideas into real projects and learning how the systems behind them work.
 
 I spend most of my time experimenting with **web development, automation, AI, self-hosting, servers, and software tools**.
 
-* 🔭 **Currently building:** A PlayStation-inspired portfolio and new automation projects
-* 🖥️ **Homelab:** Running my own server infrastructure with Proxmox and Linux
+* 🔭 **Currently building:** New web, automation, and AI projects
+* 🎮 **Portfolio:** A PlayStation-inspired personal website
+* 🖥️ **Homelab:** Experimenting with Proxmox, Linux, Docker, networking, and self-hosted services
 * 🤖 **Interested in:** AI agents, automation, and intelligent applications
-* 🌐 **Web:** Building and deploying projects with JavaScript, HTML, CSS, Node.js, and Vercel
 * 🛠️ **Favorite part of development:** Building something from scratch and figuring things out along the way
-* 🎮 **Also into:** Gaming, hardware, servers, and experimenting with new tech
 
 ```python
 class Ander:
-
     def __init__(self):
         self.username = "Anderiscool-hash"
         self.role = "Developer & Builder"
@@ -77,7 +75,7 @@ me.say_hi()
 
 ---
 
-<h1 align="center">💻 Technologies & Tools</h1>
+<h1 align="center">Technologies & Tools 🛠️</h1>
 
 ### 👨‍💻 Languages
 
@@ -92,7 +90,7 @@ me.say_hi()
 
 </div>
 
-### 🌐 Web & Development
+### 🌐 Development
 
 <div align="center">
 
@@ -115,20 +113,22 @@ me.say_hi()
 
 ---
 
-<h1 align="center">📊 GitHub</h1>
+<h1 align="center">GitHub Stats 📊</h1>
 
 <div align="center">
 
 <a href="https://github.com/Anderiscool-hash">
-  <img 
+  <img
     height="170"
     src="https://streak-stats.demolab.com?user=Anderiscool-hash&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true"
     alt="GitHub Streak"
   />
 </a>
 
+<br>
+
 <a href="https://github.com/Anderiscool-hash">
-  <img 
+  <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderiscool-hash&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000"
     alt="Most Used Languages"
@@ -143,6 +143,9 @@ me.say_hi()
 
 ### 🎮 Building one project at a time.
 
-<img src="https://komarev.com/ghpvc/?username=Anderiscool-hash&style=for-the-badge&color=003791&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img
+src="https://komarev.com/ghpvc/?username=Anderiscool-hash&style=for-the-badge&color=003791&label=PROFILE+VIEWS"
+alt="Profile Views"
+/>
 
 </div>
