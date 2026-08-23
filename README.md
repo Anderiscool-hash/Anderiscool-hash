@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Animated sticker"/>
+  <img height="150" src="[https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif](https://giphy.com/gifs/forum-playstation-psn-20OAhNvVQM98c)" alt="Animated sticker"/>
 </div>
 
 ###
